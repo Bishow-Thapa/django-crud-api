@@ -137,7 +137,7 @@ STATICFILES_DIRS = (
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # django-cors-headers
-
+# https://pypi.org/project/django-cors-headers/
 CORS_ALLOWED_ORIGINS = [
     "http://bishowthapa.com.np",
     "http://localhost:3000",
